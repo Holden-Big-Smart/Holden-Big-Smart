@@ -1,32 +1,30 @@
-## Hi there 👋
-
-# 嗨，我是 Holden-Big-Smart 👋
+## 嗨，我是 Holden-Big-Smart 👋
 
 这里是我的项目索引：
 
-## 🚀 实战项目 (Production)
-* **💰 记账本 (React + Node)**
-    * [点击查看代码](https://github.com/Holden-Big-Smart/account-book-app)
-    * 简介：一个全栈记账应用...
-* **🛒 某个电商 Demo**
-    * [点击查看代码](链接)
+## 🚀 我的项目
 
-## 📚 学习笔记 (Learning)
-* **📒 前端大百科**
-    * [前端笔记仓库](链接)
-    * [Node.js 学习路径](链接)
+- [**记账本 (React + Node)**](https://github.com/Holden-Big-Smart/Accounting-books.git)
+    
+    一个酷炫的全栈记账应用
+    
+- 酷炫的网页生态箱项目
+    - [网页生态箱的主项目](https://github.com/Holden-Big-Smart/Cyber-Eco-Sandbox.git)
+    - [AI模型训练部分](https://github.com/Holden-Big-Smart/AI-Training_for_Cyber-Eco-Sandbox.git)
 
-<!--
-**Holden-Big-Smart/Holden-Big-Smart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 我的学习笔记
 
-Here are some ideas to get you started:
+- [**前端/后端学习笔记**](https://github.com/Holden-Big-Smart/Front-end-notes.git)
+    
+    HTML + CSS + JS + VUE + Node …
+    
+- [来自Obsidian的待整理的笔记](https://github.com/Holden-Big-Smart/Obsidian-notebook.git)
+    
+    Node.js的前半部分内容，需要整理进前端/后端学习笔记中
+    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ 杂项
+
+- [github测试项](https://github.com/Holden-Big-Smart/Big-Smart-Basic-Library.git)
+    
+    用于学习github时的测试
