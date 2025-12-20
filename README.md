@@ -5,10 +5,10 @@
 ## 🚀 我的项目
 
 - [**记账本 (React + Node.js)**](https://github.com/Holden-Big-Smart/Accounting-books.git)
-    - 一个酷炫的全栈记账应用
+    - 一个简单的全栈记账应用
 - 酷炫的网页生态箱项目
-    - [网页生态箱的主项目](https://github.com/Holden-Big-Smart/Cyber-Eco-Sandbox.git)
-    - [AI模型训练部分](https://github.com/Holden-Big-Smart/AI-Training_for_Cyber-Eco-Sandbox.git)
+    - [赛博生态箱项目-网页端](https://github.com/Holden-Big-Smart/Cyber-Eco-Sandbox.git)
+    - [AI模型训练部分](https://github.com/Holden-Big-Smart/Data-Training-for-Cyber-Eco-Sandbox.git)
 - [一个完整的课程宣传网站](https://github.com/Holden-Big-Smart/Course-promotion-webpage.git)
     - 包括前台课程展示和后台对课程内容的增删改等等(React+Node.js)
 - [镭射激光辅助计算器](https://github.com/Holden-Big-Smart/Experimental-Laser-Calculator.git)
