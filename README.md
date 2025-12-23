@@ -13,7 +13,9 @@
     - 包括前台课程展示和后台对课程内容的增删改等等(React+Node.js)
 - [镭射激光辅助计算器](https://github.com/Holden-Big-Smart/Experimental-Laser-Calculator.git)
     - 一个用于辅助核验激光参数的计算网站，我不是网站的原设计者，只是参与网站的构建。
-
+- [自动化办公脚本](https://github.com/Holden-Big-Smart/Automating-Python-scripts.git)
+    - 包含多个自动化py脚本
+  
 ## 📚 我的学习笔记
 
 - [**前端/后端学习代码笔记**](https://github.com/Holden-Big-Smart/Front-end-notes.git)
